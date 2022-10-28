@@ -22,3 +22,17 @@ custom-21,ave_100k-merge-gmaxi_4c
 custom-22,ave_500k-merge-gmaxi_4c
 custom-23,sum_100k-merge-gmaxi_4c
 custom-24,sum_500k-merge-gmaxi_4c
+custom-25,ave_1M-merge-gmean_4c
+custom-26,ave_1M-merge-nmean_std_4c
+custom-27,ave_500k-merge-gmean_4c
+custom-28,ave_500k-merge-nmean_std_4c
+custom-29,ave_5M-merge-gmaxi_4c
+custom-30,ave_5M-merge-gmean_4c
+custom-31,ave_5M-merge-nmean_std_4c
+custom-32,sum_1M-merge-gmean_4c
+custom-33,sum_1M-merge-nmean_std_4c
+custom-34,sum_500k-merge-gmean_4c
+custom-35,sum_500k-merge-nmean_std_4c
+custom-36,sum_5M-merge-gmaxi_4c
+custom-37,sum_5M-merge-gmean_4c
+custom-38,sum_5M-merge-nmean_std_4c
