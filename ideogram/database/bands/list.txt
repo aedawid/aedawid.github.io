@@ -18,3 +18,7 @@ custom-17,sum_1M-8-gmaxi_4c
 custom-18,sum_1M-9-gmaxi_4c
 custom-19,ave_1M-merge-gmaxi_4c
 custom-20,sum_1M-merge-gmaxi_4c
+custom-21,ave_100k-merge-gmaxi_4c
+custom-22,ave_500k-merge-gmaxi_4c
+custom-23,sum_100k-merge-gmaxi_4c
+custom-24,sum_500k-merge-gmaxi_4c
