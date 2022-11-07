@@ -38,3 +38,9 @@ custom-37,sum_5M-merge-gmean_4c
 custom-38,sum_5M-merge-nmean_std_4c
 custom-39,ave_2M-merge-nmean_std_4c
 custom-40,sum_2M-merge-nmean_std_4c
+custom-41,ave_1M-norm_mean_i
+custom-42,ave_1M-norm_mean_l
+custom-43,ave_1M-norm_mean_u
+custom-44,sum_1M-norm_mean_i
+custom-45,sum_1M-norm_mean_l
+custom-46,sum_1M-norm_mean_u
