@@ -44,3 +44,6 @@ custom-43,ave_1M-norm_mean_u
 custom-44,sum_1M-norm_mean_i
 custom-45,sum_1M-norm_mean_l
 custom-46,sum_1M-norm_mean_u
+custom-47,ave_1M-LOG-norm_mean_i
+custom-48,ave_1M-LOG-norm_mean_l
+custom-49,ave_1M-LOG-norm_mean_u
