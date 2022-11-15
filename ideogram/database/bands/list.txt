@@ -47,7 +47,7 @@ custom-46,sum_1M-norm_mean_u
 custom-47,ave_1M-LOG-norm_mean_i
 custom-48,ave_1M-LOG-norm_mean_l
 custom-49,ave_1M-LOG-norm_mean_u
-custom-50,HybridAbalone_repeats
+custom-50,HybridAbalone_repeats_9
 custom-51,HybridAbalone_repeats_5
 custom-52,HybridAbalaone_count_5
 custom-53,HybridAbalone_count_9
