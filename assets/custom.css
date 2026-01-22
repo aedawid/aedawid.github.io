@@ -1,0 +1,49 @@
+/* assets/custom.css */
+
+/* Global */
+body {
+    font-family: sans-serif;
+    max-width: 900px;
+    margin: 40px auto;
+    line-height: 1.6;
+}
+
+/* Navigation */
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Headings */
+h1 {
+    margin-top: 0;
+}
+
+/* Tables (for your Index of / page) */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 6px 8px;
+    text-align: left;
+}
+
+th {
+    border-bottom: 1px solid #ccc;
+}
+
+hr {
+    margin: 20px 0;
+}
